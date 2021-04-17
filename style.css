@@ -1,0 +1,43 @@
+body{
+    background: black;}
+
+p{
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: grey;
+    font-size: 30px;
+    justify-content: center;
+    align-items: center;}
+
+h4{
+    display: flex;
+    justify-content: space-between;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+.eris{
+    margin-top: 150px;
+    color: cornflowerblue;}
+
+.harry{
+    color: royalblue;}
+
+.will{
+    color: darkturquoise;}
+
+.eris, .harry, .will{
+    display: flex;
+    margin-left: 30px;}
+
+a{
+    display: flex;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: grey;
+    font-size: 30px;
+    margin: 70px;
+    justify-content: center;}
+
+a:hover{
+    font-size: 35px;
+    text-decoration: underline;}
