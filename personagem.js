@@ -14,7 +14,7 @@ function escolha(personagem){
                 margin: 150px;
                 color: lightskyblue} </style>Você escolheu a Eris.</h1>
 
-            <a href="../eris/ajuda.html">Começar</a>`)
+            <a href="/projeto-modulo1/eris/ajuda.html">Começar</a>`)
 }
 
     else if(personagem == 2){
@@ -24,7 +24,7 @@ function escolha(personagem){
                 margin: 150px;
                 color: lightgreen} </style>Você escolheu o Harry.</h1>
 
-            <a href="../harry/procura.html">Começar</a>`)
+            <a href="/projeto-modulo1/harry/procura.html">Começar</a>`)
     }
 
     else if(personagem == 3){
@@ -34,7 +34,7 @@ function escolha(personagem){
                 margin: 150px;
                 color: mediumpurple;} </style>Você escolheu o Will.</h1>
 
-            <a href="../will/vinganca.html">Começar</a>`)
+            <a href="/projeto-modulo1/will/vinganca.html">Começar</a>`)
     }
 }
 
