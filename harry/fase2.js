@@ -13,7 +13,7 @@ function escolha(){
             margin: 150px;
             color: lightgreen} </style>Você passou para a próxima fase.</h1>
 
-        <a href="/projeto-modulo1/index.html">Continuar</a>`)
+        <a href="estranha.html">Continuar</a>`)
     }
 
     else if(opcao == 2){
@@ -25,7 +25,7 @@ function escolha(){
             justify-content: center;
             margin-top: 20%;} </style> Escolha errada, você perdeu.</p>
 
-        <a href="../home/home.html">Recomeçar</a>`)
+        <a href="../index.html">Recomeçar</a>`)
     }
 }
 

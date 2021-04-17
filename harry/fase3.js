@@ -25,7 +25,7 @@ function escolha(){
             justify-content: center;
             margin-top: 20%;} </style> Escolha errada, você perdeu.</p>
 
-        <a href="/projeto-modulo1/index.html">Recomeçar</a>`)
+        <a href="../index.html">Recomeçar</a>`)
     }
 }
 
